@@ -27,6 +27,6 @@ The Drum Kit application is a web-based project that provides an engaging way to
 
 ## Live Demo
 
-Check out the live demo of the Drum Kit application [here](https://your-live-demo-url.com).
+Check out the live demo of the Drum Kit application [here](https://abedalmajed.github.io/drum-kit/).
 
 
